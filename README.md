@@ -2,8 +2,8 @@
 
 ## Stats
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DungGramer&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunggramer&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DucLeTrong&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducletrong&layout=compact" />
 <!--  <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=DucLeTrong" /> -->
  </p>
 
