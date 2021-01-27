@@ -10,8 +10,8 @@
 
 ## Stats
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DucLeTrong&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducletrong&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DucLeTrong&show_icons=true&count_private=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducletrong&layout=compact&theme=dracula" />
 </p>
 
 <!--
